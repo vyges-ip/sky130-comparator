@@ -2,8 +2,8 @@ schema_version: "vyges-upstream-v1"
 upstream:
   type: "standalone"
   repo: https://github.com/vsdip/avsdcmp_3v3_sky130
-  commit: {"message":"No commit found for SHA: main","documentation_url":"https://docs.github.com/rest/commits/commits#get-a-commit","status":"422"}28a494035a0a597b29e6f0760700538f47ce1d03
-  extracted_at: "2026-04-01T05:14:14Z"
+  commit: 28a494035a0a597b29e6f0760700538f47ce1d03
+  extracted_at: "2026-04-01T05:16:15Z"
 import:
   rtl:
     - path: "."
